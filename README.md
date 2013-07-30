@@ -1,6 +1,3 @@
-C# Asynchronous Pluggable Protocol Handler
-==========================================
-
 Handle custom protocol schemes when you are using the `WebBrowser` control in a Windows Forms (or WPF) desktop application.
 
 ```C#
