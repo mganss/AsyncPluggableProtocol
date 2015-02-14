@@ -6,7 +6,7 @@ var html = @"<html><body style=""background-image: url(rsrc:helloworld.png)""></
 Browser.DocumentText = html;
 ```
 
-The `ResourceProtocol` class in the example above implements the the following interface to deliver embedded resources to the browser control:
+The `ResourceProtocol` class in the example above implements the following interface to deliver embedded resources to the browser control:
 
 ```C#
 public interface IProtocol
